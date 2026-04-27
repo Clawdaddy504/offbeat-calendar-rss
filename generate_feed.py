@@ -3,6 +3,7 @@ import argparse, json, urllib.request, xml.sax.saxutils as sax
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from html import unescape
+from pathlib import Path
 import re
 
 LIST_URL = 'https://calendar.offbeat.com/events.json?calendar_id=76&calendar_view_id=80'
@@ -32,14 +33,9 @@ def iso_to_rfc822(s):
     return format_datetime(dt)
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument('--out', required=True)
-    ap.add_argument('--limit', type=int, default=200)
-    args = ap.parse_args()
-
+def build_items(limit):
     listing = fetch_json(LIST_URL)
-    events = listing.get('events', [])[:args.limit]
+    events = listing.get('events', [])[:limit]
     items = []
     for e in events:
         event_id = e['id']
@@ -72,13 +68,23 @@ def main():
             parts.append(desc)
         description = '\n'.join(parts).strip()
         items.append({
+            'id': f'offbeat-event-{event_id}',
+            'source': 'offbeat',
             'title': title,
-            'link': html_url,
-            'guid': f'offbeat-event-{event_id}',
-            'pubDate': iso_to_rfc822(detail.get('updated_at') or detail.get('created_at') or start),
+            'venue': venue,
+            'start': start,
+            'end': end,
+            'categories': [c.get('name') or c.get('id') for c in cats],
+            'moreinfo': moreinfo,
+            'ticket_url': ticketurl,
+            'event_url': html_url,
             'description': description,
+            'pubDate': iso_to_rfc822(detail.get('updated_at') or detail.get('created_at') or start),
         })
+    return items
 
+
+def write_rss(out_path, items):
     now = format_datetime(datetime.now(timezone.utc))
     rss = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0"><channel>']
     rss.append('<title>OffBeat All Events Calendar</title>')
@@ -88,15 +94,39 @@ def main():
     for item in items:
         rss.append('<item>')
         rss.append(f'<title>{sax.escape(item["title"])}</title>')
-        rss.append(f'<link>{sax.escape(item["link"])}</link>')
-        rss.append(f'<guid isPermaLink="false">{sax.escape(item["guid"])}</guid>')
+        rss.append(f'<link>{sax.escape(item["event_url"])}</link>')
+        rss.append(f'<guid isPermaLink="false">{sax.escape(item["id"])}</guid>')
         rss.append(f'<pubDate>{sax.escape(item["pubDate"])}</pubDate>')
         rss.append(f'<description>{sax.escape(item["description"])}</description>')
         rss.append('</item>')
     rss.append('</channel></rss>')
-    with open(args.out, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(rss))
+    Path(out_path).write_text('\n'.join(rss), encoding='utf-8')
+
+
+def write_json(out_path, items):
+    json_path = Path(out_path).with_name('events.json')
+    payload = {
+        'source': 'offbeat',
+        'source_url': 'https://calendar.offbeat.com/calendars/all-events',
+        'generated_at': datetime.now(timezone.utc).isoformat(),
+        'count': len(items),
+        'events': items,
+    }
+    json_path.write_text(json.dumps(payload, indent=2), encoding='utf-8')
+    return json_path
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--out', required=True)
+    ap.add_argument('--limit', type=int, default=200)
+    args = ap.parse_args()
+
+    items = build_items(args.limit)
+    write_rss(args.out, items)
+    json_path = write_json(args.out, items)
     print(f'Wrote {len(items)} items to {args.out}')
+    print(f'Wrote {len(items)} items to {json_path}')
 
 if __name__ == '__main__':
     main()
