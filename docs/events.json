@@ -1,7 +1,7 @@
 {
   "source": "offbeat",
   "source_url": "https://calendar.offbeat.com/calendars/all-events",
-  "generated_at": "2026-08-20T21:45:52.278694+00:00",
+  "generated_at": "2026-08-21T01:59:19.967948+00:00",
   "count": 93,
   "events": [
     {
@@ -25,7 +25,7 @@
       "source": "offbeat",
       "title": "Blue Nile presents The Rozes\n\n\n\n\n",
       "venue": "Blue Nile",
-      "start": "2026-08-21T17:00:00.000-08:00",
+      "start": "2026-08-21T21:00:00.000-04:00",
       "end": null,
       "categories": [
         "Music - Cajun, Zydeco",
@@ -39,8 +39,8 @@
       "moreinfo": "https://www.bluenilelive.com/",
       "ticket_url": "",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4875723",
-      "description": "Venue: Blue Nile\nStarts: 2026-08-21T17:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nCaribbean Funk\n\nAll Shows Ages 21+. FREE ADMISSION with Valid I.D. and Drink Purchases",
-      "pubDate": "Fri, 24 Jul 2026 08:46:34 -0800"
+      "description": "Venue: Blue Nile\nStarts: 2026-08-21T21:00:00.000-04:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nCaribbean Funk\n\nAll Shows Ages 21+. FREE ADMISSION with Valid I.D. and Drink Purchases",
+      "pubDate": "Fri, 24 Jul 2026 12:46:34 -0400"
     },
     {
       "id": "offbeat-event-4806200",
@@ -83,7 +83,7 @@
       "source": "offbeat",
       "title": "Blue Nile presents The Next Level Band \n\n",
       "venue": "Blue Nile",
-      "start": "2026-08-21T19:00:00.000-08:00",
+      "start": "2026-08-21T23:00:00.000-04:00",
       "end": null,
       "categories": [
         "Music - Cajun, Zydeco",
@@ -97,15 +97,15 @@
       "moreinfo": "https://www.bluenilelive.com",
       "ticket_url": "",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4891189",
-      "description": "Venue: Blue Nile\nStarts: 2026-08-21T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nBADDEST BAND in NOLA!\n\nAges 21+. FREE ADMISSION with Valid I.D.",
-      "pubDate": "Thu, 20 Aug 2026 08:53:56 -0800"
+      "description": "Venue: Blue Nile\nStarts: 2026-08-21T23:00:00.000-04:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nBADDEST BAND in NOLA!\n\nAges 21+. FREE ADMISSION with Valid I.D.",
+      "pubDate": "Thu, 20 Aug 2026 12:53:56 -0400"
     },
     {
       "id": "offbeat-event-4877826",
       "source": "offbeat",
       "title": "New Orleans sons, Norman and Rickey Caesar, are products of a long musical legacy, the undisputed keepers of the uptown funk. They make it do what it do.",
       "venue": "Blue Nile",
-      "start": "2026-08-22T19:30:00.000-05:00",
+      "start": "2026-08-22T20:30:00.000-04:00",
       "end": null,
       "categories": [
         "Music - Cajun, Zydeco",
@@ -119,8 +119,8 @@
       "moreinfo": "https://www.bluenilelive.com/",
       "ticket_url": "",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4877826",
-      "description": "Venue: Blue Nile\nStarts: 2026-08-22T19:30:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.\n\nDOORS 7PM.",
-      "pubDate": "Tue, 28 Jul 2026 10:08:12 -0500"
+      "description": "Venue: Blue Nile\nStarts: 2026-08-22T20:30:00.000-04:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.\n\nDOORS 7PM.",
+      "pubDate": "Tue, 28 Jul 2026 11:08:12 -0400"
     },
     {
       "id": "offbeat-event-4877809",
@@ -200,7 +200,7 @@
       "source": "offbeat",
       "title": "Blue Nile presents Carolina Gallop GLAM II Fashion Show Extravaganza ",
       "venue": "Blue Nile",
-      "start": "2026-08-26T18:30:00.000-05:00",
+      "start": "2026-08-26T19:30:00.000-04:00",
       "end": null,
       "categories": [
         "Music - Cajun, Zydeco",
@@ -214,15 +214,15 @@
       "moreinfo": "https://www.bluenilelive.com/",
       "ticket_url": "https://www.bluenilelive.com/",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4870890",
-      "description": "Venue: Blue Nile\nStarts: 2026-08-26T18:30:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.bluenilelive.com/\n\nAdvance Tickets - General Admission $15\n\nFeaturing Fashion Designers: Carolina Gallop, De\u2019Andre Beverly, Keno Watson - Keno Kouture, John Delgadillo - Cutting Edge Diva, Jose Luis Rodriguez - JL Arte, Wynter Redhawk - WinCoutur, Eaglefish Designs, Maximilien Dugas - R\u00f5G, Vallerie - Sports Diva\n\nHosted by Anthony Leggio\n\nEntertainers: DJ Dub Insurgent, DJ Dotcommer, Chuck Perkins, The Cicadas, Darryllynn Sabbath, Harry Mayronne with Ms. Viola, Passion, Iris, Burlesque by Tipsy Praline and more!\n\nBenefiting La Ceiba, Honduras and Trap Dat Cat\n\nAll Shows Ages 21+.  Valid I.D. Required.",
-      "pubDate": "Thu, 16 Jul 2026 12:31:41 -0500"
+      "description": "Venue: Blue Nile\nStarts: 2026-08-26T19:30:00.000-04:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.bluenilelive.com/\n\nAdvance Tickets - General Admission $15\n\nFeaturing Fashion Designers: Carolina Gallop, De\u2019Andre Beverly, Keno Watson - Keno Kouture, John Delgadillo - Cutting Edge Diva, Jose Luis Rodriguez - JL Arte, Wynter Redhawk - WinCoutur, Eaglefish Designs, Maximilien Dugas - R\u00f5G, Vallerie - Sports Diva\n\nHosted by Anthony Leggio\n\nEntertainers: DJ Dub Insurgent, DJ Dotcommer, Chuck Perkins, The Cicadas, Darryllynn Sabbath, Harry Mayronne with Ms. Viola, Passion, Iris, Burlesque by Tipsy Praline and more!\n\nBenefiting La Ceiba, Honduras and Trap Dat Cat\n\nAll Shows Ages 21+.  Valid I.D. Required.",
+      "pubDate": "Thu, 16 Jul 2026 13:31:41 -0400"
     },
     {
       "id": "offbeat-event-4708582",
       "source": "offbeat",
       "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
       "venue": "Poor Boys",
-      "start": "2026-08-27T17:00:00.000-05:00",
+      "start": "2026-08-27T15:00:00.000-07:00",
       "end": null,
       "categories": [
         "Comedy"
@@ -230,8 +230,8 @@
       "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
       "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708582",
-      "description": "Venue: Poor Boys\nStarts: 2026-08-27T17:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 10:55:16 -0500"
+      "description": "Venue: Poor Boys\nStarts: 2026-08-27T15:00:00.000-07:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 08:55:16 -0700"
     },
     {
       "id": "offbeat-event-4878256",
@@ -282,7 +282,7 @@
       "source": "offbeat",
       "title": "Stanton Moore, Joe Ashlar, Danny Abel, & Brad Walker + Jelly Joseph\r\nTipitina\u2019s Free Fridays Concert Series\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
       "venue": "Tipitina's",
-      "start": "2026-08-28T21:00:00.000-04:00",
+      "start": "2026-08-28T18:00:00.000-07:00",
       "end": null,
       "categories": [
         "Music - R&B, Funk, Brass Band, MG Indian",
@@ -291,8 +291,8 @@
       "moreinfo": "https://tipitinas.com",
       "ticket_url": "",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4806201",
-      "description": "Venue: Tipitina's\nStarts: 2026-08-28T21:00:00.000-04:00\nCategories: Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover\nMore info: https://tipitinas.com\n\nSubscribe to OffBeat\u00a0to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews and more on New Orleans and Louisiana music, musicians, festivals and events.\n\n\nTipitina\u2019s Free Fridays Concert Series.\u00a0Presented By New Orleans Tourism & Cultural Foundation,\u00a0New Orleans & Company, Crystal Hot Sauce,\u00a0and The Louisiana Music & Heritage Experience.\n\nEvery Friday in The Summer from May 22nd-Sept 4th, 2026!",
-      "pubDate": "Wed, 15 Apr 2026 12:38:52 -0400"
+      "description": "Venue: Tipitina's\nStarts: 2026-08-28T18:00:00.000-07:00\nCategories: Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover\nMore info: https://tipitinas.com\n\nSubscribe to OffBeat\u00a0to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews and more on New Orleans and Louisiana music, musicians, festivals and events.\n\n\nTipitina\u2019s Free Fridays Concert Series.\u00a0Presented By New Orleans Tourism & Cultural Foundation,\u00a0New Orleans & Company, Crystal Hot Sauce,\u00a0and The Louisiana Music & Heritage Experience.\n\nEvery Friday in The Summer from May 22nd-Sept 4th, 2026!",
+      "pubDate": "Wed, 15 Apr 2026 09:38:52 -0700"
     },
     {
       "id": "offbeat-event-4877952",
@@ -382,14 +382,14 @@
       "source": "offbeat",
       "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
       "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-09-02T19:30:00.000-04:00",
+      "start": "2026-09-02T16:30:00.000-07:00",
       "end": null,
       "categories": [],
       "moreinfo": "burlesquebingonola.eventbrite.com",
       "ticket_url": "www.burlesquebingonola.eventbrite.com",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4544314",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-09-02T19:30:00.000-04:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
-      "pubDate": "Mon, 11 May 2026 17:37:24 -0400"
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-09-02T16:30:00.000-07:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
+      "pubDate": "Mon, 11 May 2026 14:37:24 -0700"
     },
     {
       "id": "offbeat-event-4708575",
@@ -428,7 +428,7 @@
       "source": "offbeat",
       "title": "Immerse yourself in a surreal evening of burlesque & performance art filled with untold delights, vibrant colors & outrageous acts!",
       "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-09-04T23:00:00.000-04:00",
+      "start": "2026-09-04T20:00:00.000-07:00",
       "end": null,
       "categories": [
         "New Orleans & Louisiana Culture",
@@ -439,8 +439,8 @@
       "moreinfo": "www.audaciousnola.com/tickets",
       "ticket_url": "https://PsychedelicSpeakeasyBurlesque.eventbrite.com",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708585",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-09-04T23:00:00.000-04:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: www.audaciousnola.com/tickets\nTickets: https://PsychedelicSpeakeasyBurlesque.eventbrite.com\n\nAudacious NOLA presents:\n\nPSYCHEDELIC SPEAKEASY!\n\nImmerse yourself in a surreal evening of burlesque and performance art filled with untold delights, vibrant colors, wild sensations and outrageous acts! Each month features a new cast and a new show in the Twilight Room at AllWays Lounge & Cabaret.\n\nColorful and neon attire is highly encouraged!\n\n-Tipping highly encouraged\n\nDoors 10pm, show 10:30pm\n\nN\ufeffOTE FOR VIP TICKETS: Group parties reserving VIP tickets *must* purchase as a group under one single name in order to be seated together.\n\nThis is a 21+ event, ID required\n\nRSVP REQUIRED\n\nNO REFUNDS\n\nhello@audaciousnola.com\n\nwww.audaciousnola.com",
-      "pubDate": "Fri, 16 Jan 2026 15:16:25 -0500"
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-09-04T20:00:00.000-07:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: www.audaciousnola.com/tickets\nTickets: https://PsychedelicSpeakeasyBurlesque.eventbrite.com\n\nAudacious NOLA presents:\n\nPSYCHEDELIC SPEAKEASY!\n\nImmerse yourself in a surreal evening of burlesque and performance art filled with untold delights, vibrant colors, wild sensations and outrageous acts! Each month features a new cast and a new show in the Twilight Room at AllWays Lounge & Cabaret.\n\nColorful and neon attire is highly encouraged!\n\n-Tipping highly encouraged\n\nDoors 10pm, show 10:30pm\n\nN\ufeffOTE FOR VIP TICKETS: Group parties reserving VIP tickets *must* purchase as a group under one single name in order to be seated together.\n\nThis is a 21+ event, ID required\n\nRSVP REQUIRED\n\nNO REFUNDS\n\nhello@audaciousnola.com\n\nwww.audaciousnola.com",
+      "pubDate": "Fri, 16 Jan 2026 12:16:25 -0800"
     },
     {
       "id": "offbeat-event-4891162",
@@ -469,7 +469,7 @@
       "source": "offbeat",
       "title": "Experience the elegant world of Burlesque...with a TWIST. Champagne and Showgirls are waiting for you at The Allways Lounge & Cabaret!",
       "venue": "The AllWays Lounge",
-      "start": "2026-09-05T23:00:00.000-04:00",
+      "start": "2026-09-05T21:00:00.000-06:00",
       "end": null,
       "categories": [
         "New Orleans & Louisiana Culture",
@@ -480,8 +480,8 @@
       "moreinfo": "https://Burlesquewithatwist.eventbrite.com",
       "ticket_url": "https://Burlesquewithatwist.eventbrite.com",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708586",
-      "description": "Venue: The AllWays Lounge\nStarts: 2026-09-05T23:00:00.000-04:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: https://Burlesquewithatwist.eventbrite.com\nTickets: https://Burlesquewithatwist.eventbrite.com\n\nOne of the most beloved Burlesque Shows in New Orleans!\n\nClass: A Classic New Orleans Burlesque Show with a Twist\u00a0is where you learn the true meaning of \"Entertainment!\"\n\nUnforgettable, jaw-dropping performances! Dazzling Costumes! Champagne, and Showgirls!\n\nThen after intermission, we turn up the heat, and reveal the twist!\n\nLimited seating!\n\nGet your tickets before they sell out!\n\nExperience the elegant world of Burlesque at the Allways Lounge & Cabaret!\n\nDoors 10pm, Show 10:30pm\n\nDon't forget your dollar bills to throw on stage!!\n\nwww.Prettieboi.com for tickets\n\nThe Allways Lounge & Cabaret\n\nThis is a 21+ event\n\nRSVP REQUIRED\n\nNO REFUNDS\n\nPrettieboishowcase@gmail.com",
-      "pubDate": "Fri, 16 Jan 2026 15:16:26 -0500"
+      "description": "Venue: The AllWays Lounge\nStarts: 2026-09-05T21:00:00.000-06:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: https://Burlesquewithatwist.eventbrite.com\nTickets: https://Burlesquewithatwist.eventbrite.com\n\nOne of the most beloved Burlesque Shows in New Orleans!\n\nClass: A Classic New Orleans Burlesque Show with a Twist\u00a0is where you learn the true meaning of \"Entertainment!\"\n\nUnforgettable, jaw-dropping performances! Dazzling Costumes! Champagne, and Showgirls!\n\nThen after intermission, we turn up the heat, and reveal the twist!\n\nLimited seating!\n\nGet your tickets before they sell out!\n\nExperience the elegant world of Burlesque at the Allways Lounge & Cabaret!\n\nDoors 10pm, Show 10:30pm\n\nDon't forget your dollar bills to throw on stage!!\n\nwww.Prettieboi.com for tickets\n\nThe Allways Lounge & Cabaret\n\nThis is a 21+ event\n\nRSVP REQUIRED\n\nNO REFUNDS\n\nPrettieboishowcase@gmail.com",
+      "pubDate": "Fri, 16 Jan 2026 13:16:26 -0700"
     },
     {
       "id": "offbeat-event-4806202",
@@ -551,7 +551,7 @@
       "source": "offbeat",
       "title": "Bruno Mars bring the The Romantic Tour to New Orleans on September 16 with special guests Anderson .Paak as DJ Pee .Wee and Raye.",
       "venue": "Caesars Superdome",
-      "start": "2026-09-16T19:00:00.000-05:00",
+      "start": "2026-09-16T20:00:00.000-04:00",
       "end": null,
       "categories": [
         "Music - Cajun, Zydeco",
@@ -565,8 +565,8 @@
       "moreinfo": "https://www.caesarssuperdome.com/events/detail/bruno-mars",
       "ticket_url": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-new-orleans-louisiana-09-16-2026/event/1B006390992596F2",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708579",
-      "description": "Venue: Caesars Superdome\nStarts: 2026-09-16T19:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.caesarssuperdome.com/events/detail/bruno-mars\nTickets: https://www.ticketmaster.com/bruno-mars-the-romantic-tour-new-orleans-louisiana-09-16-2026/event/1B006390992596F2\n\nBruno Mars is a 16x GRAMMY\u00ae-winning global superstar, singer, songwriter, multi-instrumentalist, producer, and one of the most-streamed artists in the world. Known for his showmanship and chart-toppers, Bruno has set a number of records throughout his career, including becoming the first artist ever to hit 150 million monthly listeners on Spotify, appearing on two of the fastest songs to reach 1 billion streams (for \u201cDie with a Smile\u201d with Lady Gaga and \u201cAPT.\u201d with ROS\u00c9, and achieving the highest-certified song in RIAA history with 2010\u2019s \u201cJust the Way You Are\u201d). Since launching a string of hits beginning in 2009, Bruno has sold over 150 million records worldwide, making him one of the best-selling artists of all time. Beyond his work as a soloist, Bruno is a member of the duo Silk Sonic with Anderson .Paak. In addition to his 35 Billboard Hot 100 hits, including nine number one singles, Bruno is the recipient of 16 GRAMMY\u00ae Awards (including \u201cAlbum of the Year\u201d for 24K Magic), 14 American Music Awards, and 7 MTV Video Music Awards. His 24K Magic World Tour was among the highest-grossing tours in history, and within the top ten highest-grossing of the 2010s.",
-      "pubDate": "Fri, 16 Jan 2026 14:16:20 -0600"
+      "description": "Venue: Caesars Superdome\nStarts: 2026-09-16T20:00:00.000-04:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.caesarssuperdome.com/events/detail/bruno-mars\nTickets: https://www.ticketmaster.com/bruno-mars-the-romantic-tour-new-orleans-louisiana-09-16-2026/event/1B006390992596F2\n\nBruno Mars is a 16x GRAMMY\u00ae-winning global superstar, singer, songwriter, multi-instrumentalist, producer, and one of the most-streamed artists in the world. Known for his showmanship and chart-toppers, Bruno has set a number of records throughout his career, including becoming the first artist ever to hit 150 million monthly listeners on Spotify, appearing on two of the fastest songs to reach 1 billion streams (for \u201cDie with a Smile\u201d with Lady Gaga and \u201cAPT.\u201d with ROS\u00c9, and achieving the highest-certified song in RIAA history with 2010\u2019s \u201cJust the Way You Are\u201d). Since launching a string of hits beginning in 2009, Bruno has sold over 150 million records worldwide, making him one of the best-selling artists of all time. Beyond his work as a soloist, Bruno is a member of the duo Silk Sonic with Anderson .Paak. In addition to his 35 Billboard Hot 100 hits, including nine number one singles, Bruno is the recipient of 16 GRAMMY\u00ae Awards (including \u201cAlbum of the Year\u201d for 24K Magic), 14 American Music Awards, and 7 MTV Video Music Awards. His 24K Magic World Tour was among the highest-grossing tours in history, and within the top ten highest-grossing of the 2010s.",
+      "pubDate": "Fri, 16 Jan 2026 15:16:20 -0500"
     },
     {
       "id": "offbeat-event-4700885",
@@ -589,7 +589,7 @@
       "source": "offbeat",
       "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
       "venue": "Poor Boys",
-      "start": "2026-09-17T17:00:00.000-05:00",
+      "start": "2026-09-17T18:00:00.000-04:00",
       "end": null,
       "categories": [
         "Comedy"
@@ -597,8 +597,8 @@
       "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
       "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708587",
-      "description": "Venue: Poor Boys\nStarts: 2026-09-17T17:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 10:55:16 -0500"
+      "description": "Venue: Poor Boys\nStarts: 2026-09-17T18:00:00.000-04:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 11:55:16 -0400"
     },
     {
       "id": "offbeat-event-4708592",
@@ -624,16 +624,16 @@
       "source": "offbeat",
       "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
       "venue": "The Actor's Apothecary",
-      "start": "2026-09-19T20:00:00.000-05:00",
-      "end": "2026-09-19T22:00:00.000-05:00",
+      "start": "2026-09-19T21:00:00.000-04:00",
+      "end": "2026-09-19T23:00:00.000-04:00",
       "categories": [
         "Comedy"
       ],
       "moreinfo": "https://www.theactorsapothecary.com/events",
       "ticket_url": "https://www.theactorsapothecary.com/events",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708588",
-      "description": "Venue: The Actor's Apothecary\nStarts: 2026-09-19T20:00:00.000-05:00\nEnds: 2026-09-19T22:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
-      "pubDate": "Fri, 16 Jan 2026 14:16:28 -0600"
+      "description": "Venue: The Actor's Apothecary\nStarts: 2026-09-19T21:00:00.000-04:00\nEnds: 2026-09-19T23:00:00.000-04:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
+      "pubDate": "Fri, 16 Jan 2026 15:16:28 -0500"
     },
     {
       "id": "offbeat-event-4878296",
@@ -694,7 +694,7 @@
       "source": "offbeat",
       "title": "Bobby Rush",
       "venue": "New Orleans Jazz & Blues Market",
-      "start": "2026-09-24T19:30:00.000-05:00",
+      "start": "2026-09-24T20:30:00.000-04:00",
       "end": null,
       "categories": [
         "Music - Jazz & Blues"
@@ -702,15 +702,15 @@
       "moreinfo": "https://jazzandbluesmarket.com/events/",
       "ticket_url": "",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4767141",
-      "description": "Venue: New Orleans Jazz & Blues Market\nStarts: 2026-09-24T19:30:00.000-05:00\nCategories: Music - Jazz & Blues\nMore info: https://jazzandbluesmarket.com/events/\n\nSUBSCRIBE TO OFFBEAT to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews, music and cultural history and more on New Orleans and Louisiana music, musicians, festivals and events.",
-      "pubDate": "Fri, 06 Mar 2026 12:55:04 -0600"
+      "description": "Venue: New Orleans Jazz & Blues Market\nStarts: 2026-09-24T20:30:00.000-04:00\nCategories: Music - Jazz & Blues\nMore info: https://jazzandbluesmarket.com/events/\n\nSUBSCRIBE TO OFFBEAT to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews, music and cultural history and more on New Orleans and Louisiana music, musicians, festivals and events.",
+      "pubDate": "Fri, 06 Mar 2026 13:55:04 -0500"
     },
     {
       "id": "offbeat-event-4708603",
       "source": "offbeat",
       "title": "Experience the elegant world of Burlesque...with a TWIST. Champagne and Showgirls are waiting for you at The Allways Lounge & Cabaret!",
       "venue": "The AllWays Lounge",
-      "start": "2026-09-25T19:00:00.000-08:00",
+      "start": "2026-09-25T23:00:00.000-04:00",
       "end": null,
       "categories": [
         "New Orleans & Louisiana Culture",
@@ -721,8 +721,8 @@
       "moreinfo": "https://Burlesquewithatwist.eventbrite.com",
       "ticket_url": "https://Burlesquewithatwist.eventbrite.com",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708603",
-      "description": "Venue: The AllWays Lounge\nStarts: 2026-09-25T19:00:00.000-08:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: https://Burlesquewithatwist.eventbrite.com\nTickets: https://Burlesquewithatwist.eventbrite.com\n\nOne of the most beloved Burlesque Shows in New Orleans!\n\nClass: A Classic New Orleans Burlesque Show with a Twist\u00a0is where you learn the true meaning of \"Entertainment!\"\n\nUnforgettable, jaw-dropping performances! Dazzling Costumes! Champagne, and Showgirls!\n\nThen after intermission, we turn up the heat, and reveal the twist!\n\nLimited seating!\n\nGet your tickets before they sell out!\n\nExperience the elegant world of Burlesque at the Allways Lounge & Cabaret!\n\nDoors 10pm, Show 10:30pm\n\nDon't forget your dollar bills to throw on stage!!\n\nwww.Prettieboi.com for tickets\n\nThe Allways Lounge & Cabaret\n\nThis is a 21+ event\n\nRSVP REQUIRED\n\nNO REFUNDS\n\nPrettieboishowcase@gmail.com",
-      "pubDate": "Fri, 16 Jan 2026 11:16:39 -0900"
+      "description": "Venue: The AllWays Lounge\nStarts: 2026-09-25T23:00:00.000-04:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: https://Burlesquewithatwist.eventbrite.com\nTickets: https://Burlesquewithatwist.eventbrite.com\n\nOne of the most beloved Burlesque Shows in New Orleans!\n\nClass: A Classic New Orleans Burlesque Show with a Twist\u00a0is where you learn the true meaning of \"Entertainment!\"\n\nUnforgettable, jaw-dropping performances! Dazzling Costumes! Champagne, and Showgirls!\n\nThen after intermission, we turn up the heat, and reveal the twist!\n\nLimited seating!\n\nGet your tickets before they sell out!\n\nExperience the elegant world of Burlesque at the Allways Lounge & Cabaret!\n\nDoors 10pm, Show 10:30pm\n\nDon't forget your dollar bills to throw on stage!!\n\nwww.Prettieboi.com for tickets\n\nThe Allways Lounge & Cabaret\n\nThis is a 21+ event\n\nRSVP REQUIRED\n\nNO REFUNDS\n\nPrettieboishowcase@gmail.com",
+      "pubDate": "Fri, 16 Jan 2026 15:16:39 -0500"
     },
     {
       "id": "offbeat-event-4797246",
@@ -759,7 +759,7 @@
       "source": "offbeat",
       "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
       "venue": "Poor Boys",
-      "start": "2026-10-01T18:00:00.000-04:00",
+      "start": "2026-10-01T16:00:00.000-06:00",
       "end": null,
       "categories": [
         "Comedy"
@@ -767,15 +767,15 @@
       "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
       "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708591",
-      "description": "Venue: Poor Boys\nStarts: 2026-10-01T18:00:00.000-04:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 11:55:17 -0400"
+      "description": "Venue: Poor Boys\nStarts: 2026-10-01T16:00:00.000-06:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 09:55:17 -0600"
     },
     {
       "id": "offbeat-event-4886693",
       "source": "offbeat",
       "title": "Blue Nile presents Kermit Ruffins and the BBQ Swingers",
       "venue": "Blue Nile",
-      "start": "2026-10-02T19:00:00.000-08:00",
+      "start": "2026-10-02T23:00:00.000-04:00",
       "end": null,
       "categories": [
         "Music - Cajun, Zydeco",
@@ -789,15 +789,15 @@
       "moreinfo": "https://www.bluenilelive.com/",
       "ticket_url": "https://www.bluenilelive.com/",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4886693",
-      "description": "Venue: Blue Nile\nStarts: 2026-10-02T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.bluenilelive.com/\n\n\"WE PARTYIN'!\" \n\nAdvance Tickets & Reserved Seating bluenilelive.com\n\nKermit Ruffins needs only two words to hype a New Orleans barroom for one of his weekly shows, and this, his personal slogan, sums up what this Big Easy ambassador is all about.\n\nFrom playing himself in the HBO Series Treme, to barbecuing outside his bar, Kermit\u2019s Treme Mother-inLaw Lounge, to sitting in with Jon Batiste and Stay Human on The Late Show with Stephen Colbert, the trumpeter/vocalist keeps himself busy when he isn\u2019t on stage doing what he does best\u2014entertaining and sharing his love of life with the world. He personifies the laid-back vibe of New Orleans.\n\nAll sales are final and refunds are only allowed in limited circumstances such as canceled events. If your event is canceled, postponed, rescheduled, or moved, we will attempt to contact you to update you on the status of the event, and inform you of any refund, credit, or exchange procedures.\n\nAll shows are for ages 21 and up. Valid ID required upon entry.",
-      "pubDate": "Thu, 13 Aug 2026 09:28:05 -0800"
+      "description": "Venue: Blue Nile\nStarts: 2026-10-02T23:00:00.000-04:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.bluenilelive.com/\n\n\"WE PARTYIN'!\" \n\nAdvance Tickets & Reserved Seating bluenilelive.com\n\nKermit Ruffins needs only two words to hype a New Orleans barroom for one of his weekly shows, and this, his personal slogan, sums up what this Big Easy ambassador is all about.\n\nFrom playing himself in the HBO Series Treme, to barbecuing outside his bar, Kermit\u2019s Treme Mother-inLaw Lounge, to sitting in with Jon Batiste and Stay Human on The Late Show with Stephen Colbert, the trumpeter/vocalist keeps himself busy when he isn\u2019t on stage doing what he does best\u2014entertaining and sharing his love of life with the world. He personifies the laid-back vibe of New Orleans.\n\nAll sales are final and refunds are only allowed in limited circumstances such as canceled events. If your event is canceled, postponed, rescheduled, or moved, we will attempt to contact you to update you on the status of the event, and inform you of any refund, credit, or exchange procedures.\n\nAll shows are for ages 21 and up. Valid ID required upon entry.",
+      "pubDate": "Thu, 13 Aug 2026 13:28:05 -0400"
     },
     {
       "id": "offbeat-event-4708589",
       "source": "offbeat",
       "title": "Immerse yourself in a surreal evening of burlesque & performance art filled with untold delights, vibrant colors & outrageous acts!",
       "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-10-02T19:00:00.000-08:00",
+      "start": "2026-10-02T23:00:00.000-04:00",
       "end": null,
       "categories": [
         "New Orleans & Louisiana Culture",
@@ -808,15 +808,15 @@
       "moreinfo": "www.audaciousnola.com/tickets",
       "ticket_url": "https://PsychedelicSpeakeasyBurlesque.eventbrite.com",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708589",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-10-02T19:00:00.000-08:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: www.audaciousnola.com/tickets\nTickets: https://PsychedelicSpeakeasyBurlesque.eventbrite.com\n\nAudacious NOLA presents:\n\nPSYCHEDELIC SPEAKEASY!\n\nImmerse yourself in a surreal evening of burlesque and performance art filled with untold delights, vibrant colors, wild sensations and outrageous acts! Each month features a new cast and a new show in the Twilight Room at AllWays Lounge & Cabaret.\n\nColorful and neon attire is highly encouraged!\n\n-Tipping highly encouraged\n\nDoors 10pm, show 10:30pm\n\nN\ufeffOTE FOR VIP TICKETS: Group parties reserving VIP tickets *must* purchase as a group under one single name in order to be seated together.\n\nThis is a 21+ event, ID required\n\nRSVP REQUIRED\n\nNO REFUNDS\n\nhello@audaciousnola.com\n\nwww.audaciousnola.com",
-      "pubDate": "Fri, 16 Jan 2026 11:16:29 -0900"
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-10-02T23:00:00.000-04:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: www.audaciousnola.com/tickets\nTickets: https://PsychedelicSpeakeasyBurlesque.eventbrite.com\n\nAudacious NOLA presents:\n\nPSYCHEDELIC SPEAKEASY!\n\nImmerse yourself in a surreal evening of burlesque and performance art filled with untold delights, vibrant colors, wild sensations and outrageous acts! Each month features a new cast and a new show in the Twilight Room at AllWays Lounge & Cabaret.\n\nColorful and neon attire is highly encouraged!\n\n-Tipping highly encouraged\n\nDoors 10pm, show 10:30pm\n\nN\ufeffOTE FOR VIP TICKETS: Group parties reserving VIP tickets *must* purchase as a group under one single name in order to be seated together.\n\nThis is a 21+ event, ID required\n\nRSVP REQUIRED\n\nNO REFUNDS\n\nhello@audaciousnola.com\n\nwww.audaciousnola.com",
+      "pubDate": "Fri, 16 Jan 2026 15:16:29 -0500"
     },
     {
       "id": "offbeat-event-4808763",
       "source": "offbeat",
       "title": "Chris Smither",
       "venue": "Chickie Wah Wah",
-      "start": "2026-10-06T18:00:00.000-07:00",
+      "start": "2026-10-06T21:00:00.000-04:00",
       "end": null,
       "categories": [
         "Music - Rock, Pop, Roots, Cover"
@@ -824,8 +824,8 @@
       "moreinfo": "https://chickiewahwah.com/",
       "ticket_url": "",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4808763",
-      "description": "Venue: Chickie Wah Wah\nStarts: 2026-10-06T18:00:00.000-07:00\nCategories: Music - Rock, Pop, Roots, Cover\nMore info: https://chickiewahwah.com/\n\nSUBSCRIBE TO OFFBEAT.COM and support local musicians, music and to get the most comprehensive info on New Orleans and Louisiana music and culture. A subscription allows you to access our 38+ years of stories, reviews, interviews and more on New Orleans and Louisiana music, musicians, festivals and events.",
-      "pubDate": "Fri, 17 Apr 2026 14:20:00 -0700"
+      "description": "Venue: Chickie Wah Wah\nStarts: 2026-10-06T21:00:00.000-04:00\nCategories: Music - Rock, Pop, Roots, Cover\nMore info: https://chickiewahwah.com/\n\nSUBSCRIBE TO OFFBEAT.COM and support local musicians, music and to get the most comprehensive info on New Orleans and Louisiana music and culture. A subscription allows you to access our 38+ years of stories, reviews, interviews and more on New Orleans and Louisiana music, musicians, festivals and events.",
+      "pubDate": "Fri, 17 Apr 2026 17:20:00 -0400"
     },
     {
       "id": "offbeat-event-4544317",
@@ -846,16 +846,16 @@
       "source": "offbeat",
       "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
       "venue": "The Actor's Apothecary",
-      "start": "2026-10-07T17:00:00.000-08:00",
-      "end": "2026-10-07T19:00:00.000-08:00",
+      "start": "2026-10-07T21:00:00.000-04:00",
+      "end": "2026-10-07T23:00:00.000-04:00",
       "categories": [
         "Comedy"
       ],
       "moreinfo": "https://www.theactorsapothecary.com/events",
       "ticket_url": "https://www.theactorsapothecary.com/events",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708594",
-      "description": "Venue: The Actor's Apothecary\nStarts: 2026-10-07T17:00:00.000-08:00\nEnds: 2026-10-07T19:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
-      "pubDate": "Fri, 16 Jan 2026 11:16:32 -0900"
+      "description": "Venue: The Actor's Apothecary\nStarts: 2026-10-07T21:00:00.000-04:00\nEnds: 2026-10-07T23:00:00.000-04:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
+      "pubDate": "Fri, 16 Jan 2026 15:16:32 -0500"
     },
     {
       "id": "offbeat-event-4708595",
@@ -968,7 +968,7 @@
       "source": "offbeat",
       "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
       "venue": "Poor Boys",
-      "start": "2026-10-15T14:00:00.000-08:00",
+      "start": "2026-10-15T18:00:00.000-04:00",
       "end": null,
       "categories": [
         "Comedy"
@@ -976,8 +976,8 @@
       "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
       "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708598",
-      "description": "Venue: Poor Boys\nStarts: 2026-10-15T14:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 07:55:17 -0800"
+      "description": "Venue: Poor Boys\nStarts: 2026-10-15T18:00:00.000-04:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 11:55:17 -0400"
     },
     {
       "id": "offbeat-event-4827408",
@@ -1058,14 +1058,14 @@
       "source": "offbeat",
       "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
       "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-10-21T18:30:00.000-05:00",
+      "start": "2026-10-21T19:30:00.000-04:00",
       "end": null,
       "categories": [],
       "moreinfo": "burlesquebingonola.eventbrite.com",
       "ticket_url": "www.burlesquebingonola.eventbrite.com",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4544318",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-10-21T18:30:00.000-05:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
-      "pubDate": "Mon, 11 May 2026 16:37:21 -0500"
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-10-21T19:30:00.000-04:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
+      "pubDate": "Mon, 11 May 2026 17:37:21 -0400"
     },
     {
       "id": "offbeat-event-4708610",
@@ -1553,16 +1553,16 @@
       "source": "offbeat",
       "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
       "venue": "The Actor's Apothecary",
-      "start": "2026-12-19T20:00:00.000-06:00",
-      "end": "2026-12-19T22:00:00.000-06:00",
+      "start": "2026-12-19T21:00:00.000-05:00",
+      "end": "2026-12-19T23:00:00.000-05:00",
       "categories": [
         "Comedy"
       ],
       "moreinfo": "https://www.theactorsapothecary.com/events",
       "ticket_url": "https://www.theactorsapothecary.com/events",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708605",
-      "description": "Venue: The Actor's Apothecary\nStarts: 2026-12-19T20:00:00.000-06:00\nEnds: 2026-12-19T22:00:00.000-06:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
-      "pubDate": "Fri, 16 Jan 2026 14:16:41 -0600"
+      "description": "Venue: The Actor's Apothecary\nStarts: 2026-12-19T21:00:00.000-05:00\nEnds: 2026-12-19T23:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
+      "pubDate": "Fri, 16 Jan 2026 15:16:41 -0500"
     },
     {
       "id": "offbeat-event-4708621",
